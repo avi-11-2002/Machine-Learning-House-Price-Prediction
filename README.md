@@ -18,7 +18,7 @@ This is a beginner Machine Learning project that predicts house prices using the
 housing.csv      # Dataset
 input.csv        # Input data
 output.csv       # Predicted results
-main_new.py      # Main Python script
+main.py      # Main Python script
 ```
 
 
